@@ -1,3 +1,1 @@
-# ProjectChallenge
-# quiz
 # quiz1
